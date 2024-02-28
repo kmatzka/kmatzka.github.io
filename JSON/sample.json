@@ -5,7 +5,7 @@
 		"items": [
 			{
 				"id": 1,
-				"title": "How does it recognise the song?",
+				"title": "How does Script Buddy recognise an Actors Voice?",
 				"text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. NowPlaying however, take's that match one step further and finds as much information as I can about the song."
 			},
 			{
