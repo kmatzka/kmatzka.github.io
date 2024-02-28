@@ -43,21 +43,14 @@
 	"contactItems": [{
 			"id": 0,
 			"title": "Twitter / 𝕏",
-			"url": "https://www.twitter.com/NowPlayingGold",
+			"url": "https://www.twitter.com/kmatzka",
 			"imageName": "newspaper.circle.fill",
 			"color": 1
 		},
 		{
-			"id": 1,
-			"title": "Instagram",
-			"url": "https://www.instagram.com/nowplaying.app",
-			"imageName": "camera.circle.fill",
-			"color": 2
-		},
-		{
 			"id": 2,
 			"title": "Contact Us",
-			"url": "mailto:hidde@modumhq.com",
+			"url": "mailto:info@scriptbuddy.app",
 			"imageName": "paperplane.circle.fill",
 			"color": 2
 		}
