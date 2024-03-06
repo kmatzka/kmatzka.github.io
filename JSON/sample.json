@@ -54,5 +54,87 @@
 			"imageName": "paperplane.circle.fill",
 			"color": 2
 		}
-	]
+	],
+    "changelogItems": [{
+            "id": 0,
+            "version": "Version 1.0",
+            "date": "31 December 2021",
+            "notes": [{
+                    "id": 0,
+                    "releaseNote": "Initial Release of Supporter"
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "Headers, highlighted items and FAQ toggles"
+                },
+                {
+                    "id": 2,
+                    "releaseNote": "Contact Items"
+                },
+                {
+                    "id": 3,
+                    "releaseNote": "Detail pages with images and videos"
+                },
+                {
+                    "id": 4,
+                    "releaseNote": "Support for Light and Dark Mode"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "version": "Version 1.1",
+            "date": "31 December 2021",
+            "notes": [{
+                "id": 0,
+                "releaseNote": "Updated the name from Hooligan to Supporter"
+            }]
+        },
+        {
+            "id": 2,
+            "version": "Version 1.2",
+            "date": "2 January 2022",
+            "notes": [{
+                    "id": 0,
+                    "releaseNote": "Added changelog to Supporter"
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "Added extra comments"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "version": "Version 1.3",
+            "date": "5 January 2022",
+            "notes": [{
+                    "id": 0,
+                    "releaseNote": "Added changelog to Supporter"
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "Added extra comments"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "version": "Version 1.4",
+            "date": "5 January 2022",
+            "notes": [{
+                    "id": 0,
+                    "releaseNote": "Added changelog to Supporter"
+                },
+                {
+                    "id": 1,
+                    "releaseNote": "Added extra comments"
+                },
+                {
+                    "id": 2,
+                    "releaseNote": "Added a third comments"
+                }
+            ]
+        }
+    ]
 }
