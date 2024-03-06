@@ -124,7 +124,7 @@
             "date": "5 January 2022",
             "notes": [{
                     "id": 0,
-                    "releaseNote": "Added changelog to Supporter"
+                    "releaseNote": "Added changelog to WhatsNewMgr"
                 },
                 {
                     "id": 1,
