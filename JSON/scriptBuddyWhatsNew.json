@@ -2,8 +2,8 @@
     "releaseNote": {
         "id": 4,
         "version": "1.4",
-        "title": "Big WhatsNew Mgr Update for Rehearsal",
-        "description": "You will love it, for sure! Script Buddy now hears what you are saying and only when you have finished will read on!"
+        "title": "Big WhatsNew Mgr Update",
+        "description": "You will love it, for sure! Script Buddy now listens to you and only reads on when you have finished your line!"
     },
     "changelogItems": [{
             "id": 0,
