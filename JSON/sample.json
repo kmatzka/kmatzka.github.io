@@ -1,83 +1,33 @@
 {
-	"faqSections": [{
-		"id": 0,
-		"title": "",
-		"items": [
-			{
-				"id": 1,
-				"title": "How does Script Buddy recognise an Actors Voice?",
-				"text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. NowPlaying however, take's that match one step further and finds as much information as I can about the song."
-			},
-			{
-				"id": 2,
-				"title": "Where do you get the information from?",
-				"text": "NowPlaying uses many different sources to find and match content with the songs. Some sources include Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API sometimes get information directly from the artists or labels themselves."
-			},
-			{
-				"id": 4,
-				"title": "Why is everything in English?",
-				"text": "NowPlaying collects content from many different sources, often only available in English. To ensure everyone gets the same experience, We have removed all translations for now. We hope to find a good solution in the future to ensure all content will be available in multiple languages, but for now, we have chosen this direction.\n\n We really hope you understand."
-			},
-			{
-				"id": 5,
-				"title": "Why does NowPlaying not work on older versions of iOS?",
-				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit. This API by Apple is only available on iOS 15 and up. Additionally, in 2022, Apple added significant improvements to the Apple Music API that drastically improved the experience of NowPlaying."
-			},
-			{
-				"id": 6,
-				"title": "How can I display songs on TV?",
-				"text": "If you have a TV with AirPlay support or an AppleTV installed, then you can mirror your screen like this:\n 1. Connect your iPhone or iPad to the same Wi-Fi network as your Apple TV, AirPlay-compatible smart TV or Mac.\n 2. Open Control Centre\n3.Tap the Screen Mirroring button (two squares)\n4. Select your TV or Mac from the list and connect.\n 5. Open NowPlaying on your device.\n\n Now you will see the current song on your TV and the facts on your device. Feel free to lock your device, which will keep updating in the background until you stop."
-			},
-			{
-				"id": 7,
-				"title": "Why can I only play snippets of songs?",
-				"text": "We currently don't support playback of any songs as we focus on providing the best content. However, we might add this functionality in the (near) future."
-			},
-			{
-				"id": 8,
-				"title": "How do I use a different streaming service?",
-				"text": "Currently, Apple Music has the best integration, but in settings, you can select Spotify, Tidal, Deezer or YouTube Music as well. This will change the 'Open in Apple Music' to open in your selected service. We are working on a tighter Spotify integration as well."
-			}
-		]
-	}],
-	"contactItems": [{
-			"id": 0,
-			"title": "Twitter / 𝕏",
-			"url": "https://www.twitter.com/kmatzka",
-			"imageName": "newspaper.circle.fill",
-			"color": 1
-		},
-		{
-			"id": 2,
-			"title": "Contact Us",
-			"url": "mailto:info@scriptbuddy.app",
-			"imageName": "paperplane.circle.fill",
-			"color": 2
-		}
-	],
+    "releaseNotes": {
+        "id": 1,
+        "version": "1.1",
+        "title": "Big (local) WhatsNew Mgr Update",
+        "description": "You will love it, fr sure! consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo sconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
     "changelogItems": [{
             "id": 0,
             "version": "Version 1.0",
             "date": "31 December 2021",
             "notes": [{
                     "id": 0,
-                    "releaseNote": "Initial Release of Supporter"
+                    "text": "Initial Release of Supporter"
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Headers, highlighted items and FAQ toggles"
+                    "text": "Headers, highlighted items and FAQ toggles"
                 },
                 {
                     "id": 2,
-                    "releaseNote": "Contact Items"
+                    "text": "Contact Items"
                 },
                 {
                     "id": 3,
-                    "releaseNote": "Detail pages with images and videos"
+                    "text": "Detail pages with images and videos"
                 },
                 {
                     "id": 4,
-                    "releaseNote": "Support for Light and Dark Mode"
+                    "text": "Support for Light and Dark Mode"
                 }
             ]
         },
@@ -87,7 +37,7 @@
             "date": "31 December 2021",
             "notes": [{
                 "id": 0,
-                "releaseNote": "Updated the name from Hooligan to Supporter"
+                "text": "Updated the name from Hooligan to Supporter"
             }]
         },
         {
@@ -96,11 +46,11 @@
             "date": "2 January 2022",
             "notes": [{
                     "id": 0,
-                    "releaseNote": "Added changelog to Supporter"
+                    "text": "Added changelog to Supporter"
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Added extra comments"
+                    "text": "Added extra comments"
                 }
             ]
         },
@@ -110,11 +60,11 @@
             "date": "5 January 2022",
             "notes": [{
                     "id": 0,
-                    "releaseNote": "Added changelog to Supporter"
+                    "text": "Added changelog to Supporter"
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Added extra comments"
+                    "text": "Added extra comments"
                 }
             ]
         },
@@ -124,15 +74,15 @@
             "date": "5 January 2022",
             "notes": [{
                     "id": 0,
-                    "releaseNote": "Added changelog to WhatsNewMgr"
+                    "text": "Added changelog to WhatsNewMgr"
                 },
                 {
                     "id": 1,
-                    "releaseNote": "Added extra comments"
+                    "text": "Added extra comments"
                 },
                 {
                     "id": 2,
-                    "releaseNote": "Added a third comments"
+                    "text": "Added a third comments"
                 }
             ]
         }
